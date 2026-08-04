@@ -1,4 +1,4 @@
-import React, { type FormEvent, type ChangeEvent, useState } from 'react';
+import { type FormEvent, type ChangeEvent, useState } from 'react';
 
 
 interface RegisterFormData {

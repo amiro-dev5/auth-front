@@ -1,4 +1,4 @@
-import { useState, FormEvent, ChangeEvent } from "react";
+import React, { type FormEvent, type ChangeEvent, useState } from 'react';
 
 interface LoginFormData {
   email: string;
